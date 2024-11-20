@@ -6,7 +6,7 @@ Inputs:
 First steps:
 - Feature to Point -> centroids of buildings
 - create dataset -> add streets -> create network dataset -> build
-- create Closest Facility Layer -> add Facility (Heat Source) -> add Incidents (Buildings_Centroids)
+- create Closest Facility Layer -> add Incident (Heat Source) -> add Facilities (Buildings_Centroids)
 - solve Closest Facility -> export first solution (first incident closest to the facility based on lenght) to new Solution Layer
 
 
